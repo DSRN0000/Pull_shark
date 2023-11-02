@@ -1,4 +1,4 @@
 # Pull_shark
 
 example
-example2 PR연습입니다.
+example2 PR
